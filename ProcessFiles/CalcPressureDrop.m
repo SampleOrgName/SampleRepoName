@@ -1,4 +1,4 @@
-data = xlsread('InputsToMATLABModel.xlsx');
+data = xlsread('CalculatedValues.xlsx');
 p1 = data(1);
 p2 = data(2);
 dp = p1-p2;
