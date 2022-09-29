@@ -1186,8 +1186,8 @@ JMF    version : 2.1.1e
             <item parameter="Ambient-P" text="1"/>
             <item parameter="Ambient-T" text="100"/>
             <item parameter="Fluid" text="Oil-5W30-62-10cSt"/>
-            <item parameter="Pump-Disp" text="0.01"/>
-            <item parameter="PumpSpeed" text="3000"/>
+            <item parameter="Pump-Disp" text="1"/>
+            <item parameter="PumpSpeed" text="1000"/>
             <item parameter="System-Pipe-Dia" text="50"/>
             <item parameter="System-Pipe-Length" text="1000"/>
             <item parameter="System-Restrict" text="5"/>
